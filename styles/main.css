@@ -1,9 +1,9 @@
 body {
-    background-color: lightblue;
+    background-color: #9EBC9F;
 }
 
 h1 {
-    color: white;
+    color: #656256;
     text-align: center;
 }
 
@@ -13,6 +13,7 @@ h1 {
 
 li {
     line-height: 30px;
+    color: #230903
 }
 
 div.bor {
